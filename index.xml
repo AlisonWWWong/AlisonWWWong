@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alison X.T.</title>
+    <link>https://alisonwwwong.github.io/</link>
+      <atom:link href="https://alisonwwwong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alison X.T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://https://alisonwwwong.github.io/images/icon_cuhk.png</url>
+      <title>Alison X.T.</title>
+      <link>https://alisonwwwong.github.io/</link>
+    </image>
+    
+    <item>
+      <title>What If We Recaption Billions of Web Images with LLaMA-3?</title>
+      <link>https://zw615.github.io/publication/recapdatacomp/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/recapdatacomp/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revisiting Adversarial Training at Scale</title>
+      <link>https://zw615.github.io/publication/advxl/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/advxl/</guid>
+      <description>&lt;hr&gt;
+</description>
+
+    
+    <item>
+      <title>I&#39;m Recruiting PhD students</title>
+      <link>https://alisonwwwong.github.io/post/recruiting/</link>
+      <pubDate>Wed, 04 Mar 2020 13:40:25 +0100</pubDate>
+      <guid>https://alisonwwwong.github.io/post/recruiting/</guid>
+      <description>&lt;p&gt;I am seeking creative, hard-working, PhD students (and master&amp;rsquo;s students
+and undergraduates) to join the XAI group at UCSC.&lt;/p&gt;
+&lt;p&gt;Come work with me on making complex mechanisms more understandable for
+debugging and diagnosis, accountability, and liability.  We examine
+applications in autonomous driving, deep learning, and other
+mission-critical or safety-critical applications.  Additionally, my
+work also examines the role of explanations for trustworthy ML,
+human-machine teams, AI and ethics, and AI safety and fairness.&lt;/p&gt;
+&lt;h2 id=&#34;ucsc-undergrad&#34;&gt;UCSC undergrad&lt;/h2&gt;
+&lt;p&gt;UCSC undergraduates are welcome to contact me about getting involved
+in research. Students interested in joining the group should have
+basic programming experience, and preferably, have taken CSE 140.&lt;/p&gt;
+&lt;h2 id=&#34;ucsc-master-s-students&#34;&gt;UCSC Master&amp;rsquo;s students&lt;/h2&gt;
+&lt;p&gt;Current UCSC Master&amp;rsquo;s students interested in gaining research
+experience or looking for a supervisor for a research project may
+contact me.&lt;/p&gt;
+&lt;p&gt;In your introductory email, please include a CV/resume, and indicate a
+few topics or application domains of interest.  I&amp;rsquo;ve listed a couple
+ongoing projects on the 
+&lt;a href=&#34;https://grad.soe.ucsc.edu/cse/masters_projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCSC CSE master&amp;rsquo;s board&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;prospective-phd-students&#34;&gt;Prospective PhD students&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m currently looking to build the XAI group with driven, hard-working
+PhD students.  Students will work on various projects with a focus on
+autonomous systems, robust machine learning, and/or explainability and
+interpretability.&lt;/p&gt;
+&lt;p&gt;In your introductory email, please include a CV/resume, and indicate a
+few topics or application domains of interest.  (For inspiration, some ongoing projects
+are listed 
+&lt;a href=&#34;../..#projects&#34;&gt;here&lt;/a&gt;, but feel free to define your own!).&lt;/p&gt;
+&lt;h3 id=&#34;before-contacting&#34;&gt;Before contacting&lt;/h3&gt;
+&lt;p&gt;Prospective PhD students, please review the UC Santa Cruz CSE 
+&lt;a href=&#34;https://grad.soe.ucsc.edu/cse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD
+admissions requirements&lt;/a&gt; and ensure
+that you meet these requirements &lt;strong&gt;before contacting&lt;/strong&gt;
+Prof. Gilpin. (Note: the GRE is no longer required!)  I can only take
+on students that are accepted to a PhD program at UCSC.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m unable to provide insights about admissions decisions.  The
+admission decisions are made by a committee.&lt;/p&gt;
+&lt;h2 id=&#34;diversity-statement&#34;&gt;Diversity statement&lt;/h2&gt;
+&lt;p&gt;Explanatory AI is an interdisciplinary field which benefits from the
+perspectives and contributions of those from diverse voices (diversity
+broadly defined).  We encourage anyone who shares our interests,
+including members of historically underrepresented and marginalized
+groups, women, LGBTQ+ folks, and people with disabilities (with
+diversity broadly defined), to consider joining us at UC Santa Cruz!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSAIL Student Profile</title>
+      <link>https://zw615.github.io/talk/csail-student-profile/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/talk/csail-student-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
+      <link>https://zw615.github.io/publication/siamfc&#43;&#43;/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/siamfc&#43;&#43;/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Explanations for Robust Autonomous Decision Making</title>
+      <link>https://zw615.github.io/talk/ucsd-datascience-2019/</link>
+      <pubDate>Wed, 23 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/talk/ucsd-datascience-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI and ethics</title>
+      <link>https://zw615.github.io/project/ai-ethics/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/ai-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanatory Games</title>
+      <link>https://zw615.github.io/project/explanatory-games/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/explanatory-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Decision Systems</title>
+      <link>https://zw615.github.io/project/reasonableness-monitors/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/reasonableness-monitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Car Can Explain!</title>
+      <link>https://zw615.github.io/project/car-can-explain/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/car-can-explain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automotive FOSS Panel</title>
+      <link>https://zw615.github.io/talk/sflc-panel/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/talk/sflc-panel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Explanation and Self-Driving</title>
+      <link>https://zw615.github.io/talk/sflc-2018/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/talk/sflc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

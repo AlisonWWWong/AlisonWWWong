@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Zeyu Wang</title>
+    <link>https://zw615.github.io/publication_types/3/</link>
+      <atom:link href="https://zw615.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://zw615.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>What If We Recaption Billions of Web Images with LLaMA-3?</title>
+      <link>https://zw615.github.io/publication/recapdatacomp/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/recapdatacomp/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rejuvenating image-GPT as Strong Visual Representation Learners</title>
+      <link>https://zw615.github.io/publication/digpt/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/digpt/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

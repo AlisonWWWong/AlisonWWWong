@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zuoxin Li | Zeyu Wang</title>
+    <link>https://zw615.github.io/authors/zuoxin-li/</link>
+      <atom:link href="https://zw615.github.io/authors/zuoxin-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zuoxin Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>Zuoxin Li</title>
+      <link>https://zw615.github.io/authors/zuoxin-li/</link>
+    </image>
+    
+    <item>
+      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
+      <link>https://zw615.github.io/publication/siamfc&#43;&#43;/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/siamfc&#43;&#43;/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

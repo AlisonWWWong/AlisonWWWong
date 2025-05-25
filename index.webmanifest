@@ -1,0 +1,18 @@
+{
+  "name": "Zeyu Wang",
+  "short_name": "Zeyu Wang",
+  "lang": "en-us",
+  "theme_color": "#003C6C",
+  "background_color": "#003C6C",
+  "icons": [{
+    "src": "/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zeyu Wang</title>
+    <link>https://zw615.github.io/project/</link>
+      <atom:link href="https://zw615.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2019 10:50:48 -0400</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://zw615.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>AI and ethics</title>
+      <link>https://zw615.github.io/project/ai-ethics/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/ai-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanatory Games</title>
+      <link>https://zw615.github.io/project/explanatory-games/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/explanatory-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Decision Systems</title>
+      <link>https://zw615.github.io/project/reasonableness-monitors/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/reasonableness-monitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Car Can Explain!</title>
+      <link>https://zw615.github.io/project/car-can-explain/</link>
+      <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
+      <guid>https://zw615.github.io/project/car-can-explain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

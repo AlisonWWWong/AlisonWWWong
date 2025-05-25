@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Alison X.T.</title>
+    <link>https://zw615.github.io/categories/</link>
+      <atom:link href="https://zw615.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 13:40:25 +0100</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://zw615.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

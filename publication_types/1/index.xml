@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Zeyu Wang</title>
+    <link>https://zw615.github.io/publication_types/1/</link>
+      <atom:link href="https://zw615.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://zw615.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Adversarial Training at Scale</title>
+      <link>https://zw615.github.io/publication/advxl/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/advxl/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sculpting Holistic 3D Representation in Contrastive Language-Image-3D Pre-training</title>
+      <link>https://zw615.github.io/publication/mixcon3d/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/mixcon3d/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning</title>
+      <link>https://zw615.github.io/publication/fedconv/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/fedconv/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation</title>
+      <link>https://zw615.github.io/publication/distillbev/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/distillbev/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Inverse Scaling Law for CLIP Training</title>
+      <link>https://zw615.github.io/publication/clipa/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/clipa/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
+      <link>https://zw615.github.io/publication/dmae/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/dmae/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can CNNs Be More Robust Than Transformers?</title>
+      <link>https://zw615.github.io/publication/robustcnn/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/robustcnn/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
+      <link>https://zw615.github.io/publication/siamfc&#43;&#43;/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/siamfc&#43;&#43;/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

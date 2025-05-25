@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial | Zeyu Wang</title>
+    <link>https://zw615.github.io/tags/tutorial/</link>
+      <atom:link href="https://zw615.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>tutorial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>tutorial</title>
+      <link>https://zw615.github.io/tags/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-based commonsense reasoning and explainability</title>
+      <link>https://zw615.github.io/talk/us2ts-2022/</link>
+      <pubDate>Fri, 30 Sep 2022 10:30:00 +0000</pubDate>
+      <guid>https://zw615.github.io/talk/us2ts-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

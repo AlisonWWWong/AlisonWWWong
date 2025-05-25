@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autonomous driving | Zeyu Wang</title>
+    <link>https://zw615.github.io/tags/autonomous-driving/</link>
+      <atom:link href="https://zw615.github.io/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
+    <description>autonomous driving</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>autonomous driving</title>
+      <link>https://zw615.github.io/tags/autonomous-driving/</link>
+    </image>
+    
+    <item>
+      <title>Automotive FOSS Panel</title>
+      <link>https://zw615.github.io/talk/sflc-panel/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/talk/sflc-panel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

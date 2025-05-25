@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Zeyu Wang</title>
+    <link>https://zw615.github.io/publication/</link>
+      <atom:link href="https://zw615.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://zw615.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>What If We Recaption Billions of Web Images with LLaMA-3?</title>
+      <link>https://zw615.github.io/publication/recapdatacomp/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/recapdatacomp/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revisiting Adversarial Training at Scale</title>
+      <link>https://zw615.github.io/publication/advxl/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/advxl/</guid>
+      <description>&lt;hr&gt;
+</description>
